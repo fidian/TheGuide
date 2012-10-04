@@ -1,0 +1,23 @@
+body {
+  width: 750px;
+  margin: 10px auto;
+}
+#wrapper {
+  overflow: auto;
+}
+nav {
+  width: 100px;
+  min-height: 400px;
+  height: auto;
+  float: left;
+}
+div.navTree {
+  white-space: nowrap;
+}
+div.navTree > div.navTree {
+  margin-left: 1em;
+}
+#content {
+  margin-left: 110px;
+  width: 630px;
+}
