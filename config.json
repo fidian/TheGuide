@@ -1,0 +1,12 @@
+{
+	"locals": {
+		"url": "http://localhost:8080",
+		"name": "Self Reliant Guide",
+		"owner": "Tyler Akins",
+		"description": "Knowledge to help survive, just in case."
+	},
+	"clean": true,
+	"plugins": [
+		"wintersmith-less"
+	]
+}
