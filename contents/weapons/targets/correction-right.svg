@@ -312,16 +312,16 @@
          id="tspan3262">dropping head</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:14px;font-style:normal;font-weight:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="-386.75488"
+       style="font-size:14px;font-style:normal;font-weight:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-457.79053"
        y="33.136719"
        id="text3179"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan3181"
-         x="-386.75488"
+         x="-457.79053"
          y="33.136719"
-         style="font-size:14px">SelfReliantGuide.net</tspan></text>
+         style="font-size:14px;text-align:start;text-anchor:start">SelfReliantGuide.net - Right handed handgun correction guide</tspan></text>
   </g>
 </svg>
