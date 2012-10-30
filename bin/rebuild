@@ -41,3 +41,4 @@ wintersmith build
 )
 
 git commit build -m 'Updating with bin/rebuild script'
+git push
