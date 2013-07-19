@@ -1,6 +1,8 @@
+---
 title: Canning
 navtitle: Canning
 template: index.jade
+---
 
 Following the practices in this guide will ensure foods are safe when stored below 95° F / 35° C.  Canned foods should be stored between 50° to 70° F / 10° to 21° C for a longer shelf life and better quality of foods.
 

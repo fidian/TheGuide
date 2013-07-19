@@ -1,7 +1,8 @@
+---
 title: Self Reliant Guide
 navtitle: The Guide
 template: index.jade
-
+---
 
 The Guide
 =========
@@ -9,6 +10,7 @@ The Guide
 The Self Reliant Guide is a project to create a free reference to help humans survive whatever disasters that could happen.  The content is entirely free for others to use or to copy to their own devices.  Why not a paper copy?  Please see the [FAQ] for the answer to this question and many others.
 
 [FAQ]: faq.html
+
 
 Topics Covered
 ==============

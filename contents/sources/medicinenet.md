@@ -1,5 +1,7 @@
+---
 title: MedicineNet
 template: index.jade
+---
 
 Botulism
 ========

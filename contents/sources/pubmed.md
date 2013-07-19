@@ -1,5 +1,8 @@
+---
 title: PubMed
 template: index.jade
+---
+
 
 Botulism
 ========

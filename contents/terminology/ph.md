@@ -1,5 +1,7 @@
+---
 title: pH
 template: index.jade
+---
 
 The term "pH" is a measure of a substance's level of acidity.  Water is neutral, with a pH of 7.  Things that have numbers less than 7 are acidic and are considered acids.  When something has a pH higher than 7, it is alkaline and is considered a base.  Here is a chart to help illustrate various pH levels.
 

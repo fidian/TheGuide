@@ -1,5 +1,7 @@
+---
 title: Targets
 template: index.jade
+---
 
 Here are a couple targets that I have created.  All targets on this page are freely usable and distributable by anyone.  They have been created with printability in mind, intended to be used on 8.5" &times; 11" paper.
 

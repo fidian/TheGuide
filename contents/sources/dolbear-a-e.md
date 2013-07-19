@@ -1,5 +1,7 @@
+---
 title: Dolbear, A. E.
 template: index.jade
+---
 
 Cricket
 =======

@@ -1,5 +1,7 @@
+---
 title: About.com
 template: index.jade
+---
 
 pH
 ==

@@ -1,7 +1,8 @@
+---
 title: Basic Survival
 navtitle: Basics
 template: index.jade
-
+---
 
 In emergencies, you need to make sure you have the essentials covered for survival:
 
@@ -10,6 +11,7 @@ In emergencies, you need to make sure you have the essentials covered for surviv
 * [Fire](fire/) - This is one of the most basic and most useful elements.  With it you can purify water, cook food, stay warm, and it may also scare off animals.
 * Food - You'll burn lots of calories while trying to build your shelter, obtain food and water, and while creating fire.  Food is how you replace these calories.
 * Hope - A positive attitude and keeping a particular goal in mind will help you not slip into despair and depression.
+
 
 The Rule of Threes
 ==================

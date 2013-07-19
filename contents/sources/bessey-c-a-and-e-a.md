@@ -1,5 +1,7 @@
+---
 title: Bessey, C. A. and E. A.
 template: index.jade
+---
 
 Cricket
 =======
