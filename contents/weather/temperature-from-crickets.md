@@ -1,7 +1,10 @@
+---
 title: Temperature from Crickets
 template: index.jade
+---
 
 The chirps from crickets speed up with warmer weather and slow down when it is colder.  From this variation, one can get a fairly good estimation of the temperature outside by listening to these insects.
+
 
 Easy
 ====
