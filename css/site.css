@@ -21,3 +21,14 @@ div.navTree > div.navTree {
   margin-left: 110px;
   width: 630px;
 }
+table,
+th,
+td {
+  border: 1px solid;
+  border-collapse: collapse;
+  padding: .4em;
+}
+thead td,
+thead th {
+  background-color: #e5eecc;
+}
