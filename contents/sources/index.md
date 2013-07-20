@@ -1,7 +1,7 @@
 ---
 title: Sources
 navtitle: Sources
-template: index.jade
+template: listing.jade
 ---
 
-I need to make a subpage listing template.
+It is important to cite sources for all of the information gathered for this site.  Here's what was used so you can double check the accuracy of the information.

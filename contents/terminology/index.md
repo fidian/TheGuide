@@ -1,7 +1,7 @@
 ---
 title: Terminology
 navtitle: Terminology
-template: index.jade
+template: listing.jade
 ---
 
-Need to make a subpage listing template.
+Here's a listing of definitions for terms that are used in this site.

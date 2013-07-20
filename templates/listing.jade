@@ -1,0 +1,13 @@
+extends layout
+
+block content
+	!= page.html
+	h2 Subpage Listing
+	- var siblings = _.chain(page.parent).filter(function (item) {
+	-    return item !== page;
+	- }).sortBy(function (item) {
+	-    return item.metadata.title.toLowerCase();
+	- }).value();
+	each sibling in siblings
+		li
+			a(href="/"+sibling.filepath.relative)= sibling.metadata.title
