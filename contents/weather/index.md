@@ -1,7 +1,7 @@
 ---
 title: Weather and the Environment
 navtitle: Weather
-template: index.jade
+template: listing.jade
 ---
 
-I need to make a subpage listing page.
+Cool description goes here.
