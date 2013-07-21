@@ -1,6 +1,5 @@
 ---
 title: Contact Us
-navtitle: Contact
 template: index.jade
 ---
 

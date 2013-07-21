@@ -1,6 +1,5 @@
 ---
 title: Frequently Asked Questions
-navtitle: FAQ
 template: index.jade
 ---
 
