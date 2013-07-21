@@ -29,7 +29,7 @@ git submodule update
 	git rm -rf *
 )
 
-wintersmith build
+npm run-script build
 
 # Commit
 (
