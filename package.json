@@ -6,12 +6,11 @@
 		"preview": "wintersmith preview"
 	},
 	"dependencies": {
+		"wintersmith": "*",
+		"wintersmith-less": "*",
 		"underscore": "*"
 	},
-	"devDependencies": {
-		"wintersmith": "*",
-		"wintersmith-less": "*"
-	},
+	"devDependencies": {},
 	"engines": {
 		"node": ">=0.8",
 		"npm": ">=1"
