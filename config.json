@@ -1,4 +1,7 @@
 {
+	"ignore": [
+		"*.swp"
+	],
 	"locals": {
 		"url": "http://localhost:8080",
 		"name": "Self Reliant Guide",
