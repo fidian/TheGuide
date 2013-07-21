@@ -10,4 +10,4 @@ block content
 	- }).value();
 	each sibling in siblings
 		li
-			a(href="/"+sibling.filepath.relative)= sibling.metadata.title
+			a(href="/"+sibling.getFilename())= sibling.metadata.title
