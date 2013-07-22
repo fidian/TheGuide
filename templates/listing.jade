@@ -4,7 +4,7 @@ block content
 	!= page.html
 	h2 Subpage Listing
 	- var siblings = _.chain(page.parent).filter(function (item) {
-	-    return item !== page;
+	-    return item !== page && item.metadata && item.metadata.title;
 	- }).sortBy(function (item) {
 	-    return item.metadata.title.toLowerCase();
 	- }).value();
