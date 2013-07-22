@@ -8,9 +8,7 @@ html(lang="en")
 				block title
 					= locals.name
 			link(rel="stylesheet", href="/css/site.css")
-			if page.metadata.mathjax
-				script(src="/js/mathjax/MathJax.js")
-				script(src="/js/mathjax-config.js")
+			script(src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=MML_HTMLorMML")
 	body
 		header
 			div.inner
