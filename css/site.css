@@ -32,3 +32,6 @@ thead td,
 thead th {
   background-color: #e5eecc;
 }
+math {
+  font-family: serif;
+}
