@@ -177,6 +177,6 @@ The FDA has determined that there is no limit to the shelf life of bottled water
 Sources
 =======
 
-* [Charles Gallo](../../sources/gallo-c.md) - Emergency Go Bag
-* [DrFaulken](../../sources/drfaulken.md) - Building a Personal Emergency Bag
-* [Lauren M. Posnick](../../sources/posnick-l-m.md) - Bottled Water
+* [Charles Gallo](../../sources/gallo-c.html) - Emergency Go Bag
+* [DrFaulken](../../sources/drfaulken.html) - Building a Personal Emergency Bag
+* [Lauren M. Posnick](../../sources/posnick-l-m.html) - Bottled Water
