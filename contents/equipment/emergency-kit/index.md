@@ -161,7 +161,13 @@ What to Avoid
 
 This is not a list of things that absolutely **must not** be packed.  Instead, it is guidelines that may or may not apply to you.
 
-* Consider skipping flint and steel, a bar of magnesium, Swedish FireSteel, a fire piston, magnifying lens or other ways of making fire.  Matches and lighters are small and work quite well.  Most people have trouble with these other methods.
+* Consider skipping flint and steel, a bar of magnesium, Swedish FireSteel, a fire piston or other ways of making fire.  Matches and lighters are small and work quite well.  Most people have trouble with these other methods.
+
+* Heavy things and bulky things.  You want a pack that you'd be willing to take anywhere.  Smaller packs are less obtrusive and light packs are more enjoyable to take along.  A multi-tool take the place of a knife, pliers, screwdriver set and can opener.
+
+* Single-purpose items and somewhat-sometimes items.  Having an extra belt might be handy in a weird situation, but an adequate one can be made from rope.  A magnifying lens can start fires and help see spliters, but its fire-making ability is dependent on the sun being visible.
+
+* Frivolous things that one can do without for several days.  You might be able to use chopsticks as easily as a fork or spoon, but I'd skip all three and pack one spork instead.
 
 
 Keeping Up To Date
