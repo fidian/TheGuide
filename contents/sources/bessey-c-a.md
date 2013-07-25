@@ -1,5 +1,5 @@
 ---
-title: Bessey, C. A. and E. A.
+title: Bessey, C. A.
 template: index.jade
 ---
 
@@ -7,6 +7,8 @@ Cricket
 =======
 
 The Cricket as a Thermometer
+
+Bessey, C. A. and E. A.
 
 _The American Naturalist_, volume 32, pages 263-264
 

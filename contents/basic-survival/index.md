@@ -4,7 +4,7 @@ navtitle: Basics
 template: index.jade
 ---
 
-In emergencies, you need to make sure you have the essentials covered for survival:
+In emergencies, you need to make sure you have the essentials covered for survival.  First, [get prepared](prepared/).  Then during any sort of crisis, you need the following things in this order:
 
 * [Shelter](shelter/) - If you are exposed to the elements, you might not last the night.
 * [Water](water/) - Everyone needs water to survive.  While you are working and exerting yourself in a survival situation, you use up lots more water.
