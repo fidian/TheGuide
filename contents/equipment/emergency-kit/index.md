@@ -159,7 +159,7 @@ This section is just to give you ideas.  Remember that the kit should work for y
 What to Avoid
 =============
 
-This is not a list of things that absolutely **must not** be packed.  Instead, it is guidelines that may or may not apply to you.
+This list is a list of guidelines.  They may or may not apply to what you are packing.  Each emergency pack is unique to the individual that's carrying it.
 
 * Consider skipping flint and steel, a bar of magnesium, Swedish FireSteel, a fire piston or other ways of making fire.  Matches and lighters are small and work quite well.  Most people have trouble with these other methods.
 
