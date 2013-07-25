@@ -30,4 +30,4 @@ Sources
 =======
 
 * [A. E. Dolbear](../sources/dolbear-a-e.html) - Crickets
-* [C. A. Bessey and E. A. Bessey](../sources/bessey-c-a-and-e-a.html)
+* [C. A. Bessey](../sources/bessey-c-a.html)
