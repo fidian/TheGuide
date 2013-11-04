@@ -46,7 +46,7 @@ First, a couple guiding principles.
 3.  Everyone should have their own bag.
 4.  Use it and keep it up to date.
 
-Next, you should consider the following topics and pack accordingly.  Remember to try to keep the size down, so consider things that can perform "double duty" and are useful in a broad range of scenarios.
+Next, you should consider the following topics and pack accordingly.  Remember to try to keep the size down, so consider things that can perform "double duty" and are useful in a broad range of scenarios.  Don't depend on things that are tricky to use; if you need help, you want others to figure out the tools in your pack.
 
 
 First Aid
