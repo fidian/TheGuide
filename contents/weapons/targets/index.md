@@ -19,11 +19,13 @@ Useful for sighting in rifles, this target has lines spaced every inch.
 
 > [PDF](target-grid.pdf), [PNG](target-grid.png), [SVG](target-grid.svg)
 
-![Correction-Right](correction-right-thumb.png) ![Correction-Left](correction-left-thumb.png)
+![Correction-Right](correction-right-thumb.png)
 
 Handgun correction charts.  If you are consistenly off in a particular direction, this will let you know how to fix your aim.
 
 > Right handed shooters: [PDF](correction-right.pdf), [PNG](correction-right.png), [SVG](correction-right.svg)
+
+![Correction-Left](correction-left-thumb.png)
 
 Lefties aren't forgotten either!  This is just a mirror image of the right handed version.
 
