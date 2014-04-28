@@ -1,6 +1,6 @@
 mixin navtree(dir, depth)
 	if ! depth
-		depth = 0
+		- depth = 0
 	if depth < 2
 		- var dirs = _.chain(dir._.directories).filter(function (item) {
 		-    return item.index && item.index.metadata && item.index.metadata.navtitle;
