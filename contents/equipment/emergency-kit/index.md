@@ -27,13 +27,11 @@ This kit could help you in the following ways, just to name a few:
 How Big Are They?
 =================
 
-You can keep one in the trunk of your car, under the bed or maybe in the garage.  It should be easily accessible in case of imminent danger.  I would recommend keeping track of your supplies in three locations:
+You can keep one in the trunk of your car, under the bed or maybe in the garage.  It should be easily accessible in case of imminent danger.  A recommendation is to keep your supplies in three locations:
 
-1.  On your person.
-2.  Always nearby, such as in a backpack or purse.
-3.  In a safe location, such as in your vehicle or home.
-
-What you keep on you at all times should help you get to your backpack/purse.  What you keep there should provide what you need to get to your larger pack in the car or at home.
+1.  On your person.  This gets you to your larger kit.
+2.  Always nearby, such as in a backpack or purse.  This can get you to a safe location.
+3.  In a safe location, such as in your vehicle or home.  This one is likely the largest one of all.
 
 
 What Goes In?
@@ -100,7 +98,7 @@ Tools
 
 * Light source.  Flashlights and headlamps are quick but need batteries.  Glow sticks work for hours but aren't too bright and can freeze.  Candles shed light and a tiny amount of heat but need a source of fire and are sensitive to wind.
 
-* Lighter or matches.  I'd suggest getting a mini lighter because it's reusable.
+* Lighter or matches.  A mini lighter may be good because it's reusable.
 
 * Communications radio.  A FRS/GMRS radio is inexpensive and can travel miles.  A good pocket radio will pull in news broadcasts and NOAA weather reports.
 
@@ -165,7 +163,7 @@ This list is a list of guidelines.  They may or may not apply to what you are pa
 
 * Heavy things and bulky things.  You want a pack that you'd be willing to take anywhere.  Smaller packs are less obtrusive and light packs are more enjoyable to take along.  A multi-tool take the place of a knife, pliers, screwdriver set and can opener.
 
-* Single-purpose items and somewhat-sometimes items.  Having an extra belt might be handy in a weird situation, but an adequate one can be made from rope.  A magnifying lens can start fires and help see spliters, but its fire-making ability is dependent on the sun being visible.
+* Single-purpose items and somewhat-sometimes items.  Having an extra belt might be handy in a weird situation, but an adequate one can be made from rope.  A magnifying lens can start fires and help see splinters, but its fire-making ability is dependent on the sun being visible.
 
 * Frivolous things that one can do without for several days.  You might be able to use chopsticks as easily as a fork or spoon, but I'd skip all three and pack one spork instead.
 

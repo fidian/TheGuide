@@ -26,7 +26,7 @@ In an emergency, time is of the essence.  You have perhaps three seconds to deci
 You can survive 3 minutes without air
 -------------------------------------
 
-I'm not quite able to hold my breath that long, but you get the idea.  Without air to breathe, you die.  There's not a lot of preparation you can do to combat this beyond exercising and being more athletically fit.
+You may not able to hold your breath that long, but the premise is sound.  Without air to breathe, you die.  There's not a lot of preparation you can do to combat this beyond exercising and being more athletically fit.
 
 You can survive 3 hours without shelter
 ---------------------------------------
